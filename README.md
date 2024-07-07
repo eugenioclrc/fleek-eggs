@@ -29,7 +29,7 @@ Eggs Idle Miner is designed to provide a unique gaming experience where players 
 To run Eggs Idle Miner locally, follow these steps:
 
 1. **Clone the Repository**:
-   ```bash
+```bash
    git clone https://github.com/yourusername/eggs-idle-miner.git
 ```
 Usage
